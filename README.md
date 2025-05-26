@@ -20,7 +20,7 @@ The training process consisted of two main alignment sequences starting from a p
 
 The diagram below illustrates this process:
 
-![Training Process Overview](./training-overview.png)
+![Training Process Overview](./images/training-overview.png)
 
 *Figure 1: Overview of the training process*
 
@@ -57,7 +57,7 @@ Used to measure instruction-following and commonsense reasoning at different tra
 
 The performance of the model was evaluated at multiple checkpoints across the alignment process. The figure below shows how performance on commonsense reasoning benchmarks changed during alignment to human values using RLHF:
 
-![Benchmark Performance during RLHF](./results.png)
+![Benchmark Performance during RLHF](./images/results.png)
 
 *Figure 2: Effect of alignment to human values (HH data) on benchmark performance*
 
