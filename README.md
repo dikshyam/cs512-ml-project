@@ -78,6 +78,14 @@ Future directions:
 - Investigate the effect of different reward models on RLHF outcomes
 - Explore Parameter-Efficient Fine-Tuning (PEFT) for resource-constrained settings
 
+## Team Members
+
+- Pegah Alipoormolabashi  
+- Dikshya Mohanty
+- Kalina Kostyszyn  
+- Arash Karimi  
+
+
 ## References
 
 Please refer to `ML_project_report.pdf` in this repository (reports folder) for full references to prior work and datasets used.
